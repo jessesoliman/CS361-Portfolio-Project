@@ -1,0 +1,60 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #eff0b7;
+  border: 12px solid rgb(142, 245, 122);
+  margin: 150px;
+  padding: 0px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #cfe2ec;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: calc(10px + 2vmin);
+  color: rgb(233, 113, 113);
+}
+
+.App-footer {
+  background-color: rgb(233, 113, 113);
+}
+
+.App-link {
+  color: #a6fb61;
+}
+
+.table-schema {
+  border: 6px solid rgb(158, 172, 253);
+  padding: 32px;
+}
+
+.row-schema-2 {
+  border: 4px solid rgb(243, 130, 111);
+  padding: 10px;
+  margin: 16px;
+  justify-content: center;
+}
+
+.row-schema {
+  border: 4px solid rgb(100, 100, 41);
+  padding: 10px;
+  margin: 16px;
+  justify-content: center;
+}
+
+.App-nav {
+  border: 6px solid rgb(248, 38, 178);
+  padding: 32px; 
+}
+
+.input-schema {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+}
